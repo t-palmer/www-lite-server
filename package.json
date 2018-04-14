@@ -1,0 +1,25 @@
+{
+  "name": "www-lite-server",
+  "version": "0.1.0",
+  "description": "Leverage a single installation of  lite-server for multiple projects",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-palmer/www-lite-server.git"
+  },
+  "keywords": [
+    "lite-server"
+  ],
+  "author": "Todd Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-palmer/www-lite-server/issues"
+  },
+  "homepage": "https://github.com/t-palmer/www-lite-server#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
